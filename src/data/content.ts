@@ -101,7 +101,7 @@ export const notes = [
   },
   {
     "id": 11,
-    "tag": "TO KIRAN MARY MATTHEW",
+    "tag": "TO KIRAN MARY MATHEW",
     "title": "Happy Teachers' Day!",
     "body": "Everyone would agree that she was a dedicated and amiable teacher. Although she commanded great respect as a teacher, we could always relate to her like an elder sister.",
     "author": "Parthiv",
@@ -117,16 +117,6 @@ export const notes = [
     "author": "Joyel Jinson",
     "subtext": "Batch: 2026",
     "bgColor": "#d5cce6",
-    "textColor": "text-gray-900"
-  },
-  {
-    "id": 13,
-    "tag": "TO EEE",
-    "title": "Happy Teachers' Day!",
-    "body": "Teach properly and not just read from ur ppt .Teach them properly,take care of them individually,talk to them ,ask about their dreams ,and guide their journey on what careers they would like",
-    "author": "Anonymous",
-    "subtext": "Batch: 2025",
-    "bgColor": "#a2c3d4",
     "textColor": "text-gray-900"
   },
   {
@@ -181,7 +171,7 @@ export const notes = [
   },
   {
     "id": 19,
-    "tag": "TO DR. JAYACHANDRAN",
+    "tag": "TO DR. JAYACHANDRAN AND DR.BINDHU V",
     "title": "Happy Teachers' Day!",
     "body": "Thank you, Sir and Ma'am, for all your support during Excel 2025. It was a genuinely tough undertaking, and your guidance from day one of the core handover meant a lot to us. There were moments we were stuck and exhausted and didn't know how to move forward — thank you for holding us up through those times. We couldn't have pulled off Excel 2025, through its best and hardest moments, without your support.",
     "author": "Rohit Jose",
@@ -257,6 +247,96 @@ export const notes = [
     "author": "Sanjay Sudheer",
     "subtext": "Batch: 2026",
     "bgColor": "#f9a8d4",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 27,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "We probably didn’t appreciate it enough back then, but having teachers who genuinely cared made a huge difference. Stepping into the working world made us realise just how much those little things mattered. Thank you for always being there for us. ❤️",
+    "author": "Anonymous",
+    "subtext": "Batch: 2023",
+    "bgColor": "#d5cce6",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 28,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "Thank you for everything. You guys made us what we are today",
+    "author": "Anonymous",
+    "subtext": "Batch: 2024",
+    "bgColor": "#f2cc8f",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 29,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "Thank you for putting up with our last minute submissions and all those sleepy faces in class. We may not have said it enough, but we really appreciate you",
+    "author": "Anonymous",
+    "subtext": "Batch: 2020",
+    "bgColor": "#bbf7d0",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 30,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "It’s only after stepping into the real world that we realise how much we took those college days for granted. The patience, guidance and little things you did for us mean a lot more now. Thank you.",
+    "author": "Anonymous",
+    "subtext": "Batch: 2023",
+    "bgColor": "#f9a8d4",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 31,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "When we were students we thought you were just doing your job. Now that we are outside, we realise how much more you actually did for us. Grateful for it, always!",
+    "author": "Anonymous",
+    "subtext": "Batch: 2025",
+    "bgColor": "#a4c1a7",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 32,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "Having teachers who actually knew us, not just our names or marks, was something we didn’t appreciate enough back then. Looking back now, grateful feels like an understatement. ❤️",
+    "author": "Anonymous",
+    "subtext": "Batch: 2022",
+    "bgColor": "#f4e285",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 33,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "Ningalude vila manassilaakan college kazhyendi vannu, Thank you for everything, Happy teachers day to all of you. ❤️",
+    "author": "Anonymous",
+    "subtext": "Batch: 2021",
+    "bgColor": "#e27c70",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 34,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "We came to college thinking we were here mainly to earn a degree, but along the way you taught us much more than what was written in our textbooks. Thank you for shaping us to what we are today🥹",
+    "author": "Anonymous",
+    "subtext": "Batch: 2026",
+    "bgColor": "#ddd6fe",
+    "textColor": "text-gray-900"
+  },
+  {
+    "id": 35,
+    "tag": "TO ALL OUR DEAR TEACHERS",
+    "title": "Happy Teachers' Day!",
+    "body": "Not every class was easy and not every semester went according to the plan, but having teachers who always tried to guide us made a huge difference.Thank you🙃",
+    "author": "Anonymous",
+    "subtext": "Batch: 2020",
+    "bgColor": "#ffffff",
     "textColor": "text-gray-900"
   }
 ];
